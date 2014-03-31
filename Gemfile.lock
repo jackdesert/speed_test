@@ -355,6 +355,7 @@ DEPENDENCIES
   delayed_job_active_record
   dynamic_form
   exception_notification
+  execjs
   factory_girl_rails
   fancybox-rails!
   flutie
